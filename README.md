@@ -4,6 +4,10 @@ It can be installed in a much smaller case and supplied by 24VDC SMPS to save mo
 Many metal case with 88X38mm front panel and lots chinese-cloned STM32 "T12" soldering station are
 compatible with this modified version of UN5.2, which further reduces the cost and complexity of this project. 
 
+Remember, it is UniSolder still; which means it can also accommodate many other irons. Same feature like the original UN.
+But with JBC iron and working as JBC controller, makes it become more valuable, excellent soldering station.
+The JBC C210, C245 or even C247 series irons can be used, depending on the supplied voltage and needs.
+
 Do it at your own risk. The files are provided "AS-IS".
 
 Unfortunately, you have to be a bit familiar with the original UN project. You can generate BOM by using Altium.
